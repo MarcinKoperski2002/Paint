@@ -1,0 +1,6 @@
+W związku z tym, iż program Projekt3PO został wykonany w Windows Forms, to niektóre jego elementy nie działają ze względu na ograniczone działanie na Bitmapie. Występują problemy z działaniem na wartwach. Jest możliwe jego naprawienie, natomiast z braku czasu i również przez to, że kod byłby mozolny, to tych funkcji nie ma, natomiast program jak najbardziej działa.
+
+Niedziałające elementy:
+1. Otwórz (po wczytaniu obrazu nie można rysować)
+2. Farba (program się zawiesza)
+3. Zapisywanie, wklejanie, cofanie, wycinanie, zaznaczanie wybranych elementów

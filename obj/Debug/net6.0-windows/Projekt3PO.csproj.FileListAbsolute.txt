@@ -1,0 +1,36 @@
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\bin\Debug\net6.0-windows\Projekt3PO.exe
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\bin\Debug\net6.0-windows\Projekt3PO.deps.json
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\bin\Debug\net6.0-windows\Projekt3PO.runtimeconfig.json
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\bin\Debug\net6.0-windows\Projekt3PO.dll
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\bin\Debug\net6.0-windows\Projekt3PO.pdb
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.csproj.AssemblyReference.cache
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.Projekt3PO.resources
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.Properties.Resources.resources
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.AssemblyInfoInputs.cache
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.AssemblyInfo.cs
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.dll
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\refint\Projekt3PO.dll
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.pdb
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.genruntimeconfig.cache
+C:\Users\Marcin\source\repos\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\ref\Projekt3PO.dll
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\bin\Debug\net6.0-windows\Projekt3PO.exe
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\bin\Debug\net6.0-windows\Projekt3PO.deps.json
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\bin\Debug\net6.0-windows\Projekt3PO.runtimeconfig.json
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\bin\Debug\net6.0-windows\Projekt3PO.dll
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\bin\Debug\net6.0-windows\Projekt3PO.pdb
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.csproj.AssemblyReference.cache
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.Projekt3PO.resources
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.Properties.Resources.resources
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.csproj.GenerateResource.cache
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.AssemblyInfoInputs.cache
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.AssemblyInfo.cs
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.dll
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\refint\Projekt3PO.dll
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.pdb
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\Projekt3PO.genruntimeconfig.cache
+C:\Users\Marcin\source\repos\Programowanie obiektowe\Projekt3PO\Projekt3PO\obj\Debug\net6.0-windows\ref\Projekt3PO.dll
